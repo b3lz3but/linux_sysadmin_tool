@@ -1,0 +1,6 @@
+
+# Default configurations for the system
+default_filesystem: ext4
+default_mount_point: /mnt/test
+log_file: sysadmin_tool.log
+    
